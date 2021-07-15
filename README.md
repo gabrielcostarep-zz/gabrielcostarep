@@ -2,7 +2,7 @@
 
 <ul>
   <li>I'm a beginner in technology
-  <li>Focused on learning all about Web Development
+  <li>Focused on learning everything about Web/Mobile Development
   <li>Learning HTML, CSS and JavaScript
 </ul>
 
